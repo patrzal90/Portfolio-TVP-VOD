@@ -42,4 +42,4 @@ Szkolenie Indywidualne tester manualny 15.09.2022
 * [Report Excell](https://docs.google.com/spreadsheets/d/1fofmy2nsSuKd0JaN3msLh9hsosunC-Ck/edit?usp=sharing&ouid=114072894826675478815&rtpof=true&sd=true)
 ## MY REPORT
 ## MY Mindmap TVP VOD
-* [Mindmap PDF](https://drive.google.com/file/d/1B8oG9SOZaG1WOqdUPWgJ19X-NQdr5HOX/view?usp=sharing)
+* [Mindmap PDF](https://drive.google.com/file/d/1ESQxxcN5Zab0B8QCXZtpPmTEwNht0lwi/view?usp=sharing)
