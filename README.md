@@ -38,7 +38,7 @@ Szkolenie Indywidualne tester manualny 15.09.2022
 * [nazwa buga](https://docs.google.com/document/d/1ZV2IDnJAaPZK5RK02viobdZMGqjDy8pO/edit?usp=sharing&ouid=114072894826675478815&rtpof=true&sd=true)
 ## MY REPORT
 ## MY REPORT FOR TVP VOD
-* [Report PDF](https://drive.google.com/file/d/1Ew4RrV2u9QcqwA-tw5KGniMA54SnvHOx/view?usp=sharing)
+* [Report PDF](https://drive.google.com/file/d/12GOXbsR8rIMy8xPtqU3kg21XAUWGL_gZ/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1fofmy2nsSuKd0JaN3msLh9hsosunC-Ck/edit?usp=sharing&ouid=114072894826675478815&rtpof=true&sd=true)
 ## MY REPORT
 ## MY Mindmap TVP VOD
